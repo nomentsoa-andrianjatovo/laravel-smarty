@@ -16,3 +16,4 @@ In composer.json:
         }
     ]
 ```
+``composer update``
