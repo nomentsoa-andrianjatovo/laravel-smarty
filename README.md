@@ -1,5 +1,5 @@
 # laravel-smarty
-A very lightweight integration of Smarty into Laravel for Floowedit CMS
+A very lightweight integration of Smarty into Laravel for Floowedit CMS, easily modifiable for other uses
 
 ## Installation
 In composer.json:
