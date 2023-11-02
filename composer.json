@@ -20,6 +20,5 @@
             "Noum\\Smarty\\": "src/"
         }
     },
-    "minimum-stability": "dev",
     "prefer-stable": true
 }
